@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue" />
-  <img src="https://img.shields.io/badge/Streamlit-App-red" />
   <img src="https://img.shields.io/badge/Model-ExtraTreesClassifier-green" />
   <img src="https://img.shields.io/badge/Status-Active-success" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
