@@ -66,12 +66,6 @@ Metrics considered:
 * Confusion matrix
 * Feature importance analysis
 
-### 5️⃣ **Deployment (Streamlit App)**
-
-* User inputs environmental parameters
-* Model predicts irradiance category
-* Visual and interactive UI
-
 ---
 
 ## 🛠️ **Tech Stack**
