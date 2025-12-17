@@ -129,17 +129,6 @@ Extra Trees achieved high accuracy due to its ensemble nature and robust trainin
 
 ---
 
-## 🚀 **How to Run Locally**
-
-```bash
-git clone https://github.com/yourusername/solar-irradiance-prediction.git
-cd solar-irradiance-prediction
-pip install -r requirements.txt
-streamlit run streamlit_app/app.py
-```
-
----
-
 ## 🌐 **Live Demo**
 
 🔗 [https://your-streamlit-app-link.com](https://your-streamlit-app-link.com)
