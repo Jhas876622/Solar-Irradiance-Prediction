@@ -88,8 +88,6 @@ Metrics considered:
 ├── 📁 models/
 ├── 📁 notebooks/
 │   └── Solar Irradiance Prediction.ipynb
-├── 📁 streamlit_app/
-│   └── app.py
 ├── requirements.txt
 ├── README.md
 └── LICENSE
