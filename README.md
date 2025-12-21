@@ -127,9 +127,6 @@ Extra Trees achieved high accuracy due to its ensemble nature and robust trainin
 ---
 
 ## 🌐 **Live Demo**
-
-🔗 [https://your-streamlit-app-link.com](https://your-streamlit-app-link.com)
-
 ---
 
 ## 🤖 **Model Used**
