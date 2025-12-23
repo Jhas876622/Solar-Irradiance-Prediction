@@ -126,9 +126,6 @@ Extra Trees achieved high accuracy due to its ensemble nature and robust trainin
 
 ---
 
-## 🌐 **Live Demo**
----
-
 ## 🤖 **Model Used**
 
 ```python
