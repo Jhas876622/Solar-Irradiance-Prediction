@@ -9,7 +9,7 @@
 
 ## 🔬 **Abstract**
 
-Solar irradiance prediction plays a crucial role in the optimization of solar energy systems, grid stability, and renewable energy planning. In this project, we present a machine-learning-based predictive framework using meteorological parameters such as temperature, humidity, pressure, wind conditions, and time-based features to estimate solar irradiance levels. The model is trained using an **Extra Trees Classifier**, chosen for its robustness, handling of non-linear feature interactions, and resistance to overfitting. A Streamlit web interface is developed to allow users to input environmental parameters and instantly receive irradiance predictions, making the system accessible and practical for real-world applications.
+Solar irradiance prediction plays a crucial role in the optimisation of solar energy systems, grid stability, and renewable energy planning. In this project, we present a machine-learning-based predictive framework using meteorological parameters such as temperature, humidity, pressure, wind conditions, and time-based features to estimate solar irradiance levels. The model is trained using an **Extra Trees Classifier**, chosen for its robustness, handling of non-linear feature interactions, and resistance to overfitting. A Streamlit web interface is developed to allow users to input environmental parameters and instantly receive irradiance predictions, making the system accessible and practical for real-world applications.
 
 This README outlines the complete methodology, pipeline architecture, dataset preprocessing steps, model evaluation, app interface, and deployment details.
 
